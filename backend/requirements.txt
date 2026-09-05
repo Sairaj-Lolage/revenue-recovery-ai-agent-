@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+pytest
+httpx
+anyio[asyncio]
+pytest-anyio
+sqlalchemy
+google-genai
+langgraph
